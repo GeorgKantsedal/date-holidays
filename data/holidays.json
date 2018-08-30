@@ -1,5 +1,5 @@
 {
-  "version": "2018-08-27",
+  "version": "2018-08-30",
   "license": "CC-BY-SA-3",
   "holidays": {
     "AD": {
@@ -89,6 +89,117 @@
               }
             }
           }
+        }
+      }
+    },
+    "AE": {
+      "names": {
+        "en": "United Arab Emirates",
+        "ar": "دولة الإمارات العربية المتحدة"
+      },
+      "langs": [
+        "ar"
+      ],
+      "zones": [
+        "Asia/Dubai"
+      ],
+      "dayoff": "",
+      "days": {
+        "01-01": {
+          "_name": "01-01",
+          "name": {
+            "ar": "رأس السنة الميلادية"
+          }
+        },
+        "12-02": {
+          "name": {
+            "en": "National Day",
+            "ar": "اليوم الوطني"
+          }
+        },
+        "1 Muharram": {
+          "_name": "1 Muharram"
+        },
+        "1 Shawwal P3D": {
+          "_name": "1 Shawwal"
+        },
+        "10 Dhu al-Hijjah P3D": {
+          "_name": "10 Dhu al-Hijjah"
+        },
+        "27 Rajab": {
+          "_name": "27 Rajab"
+        },
+        "1 Ramadan": {
+          "_name": "1 Ramadan"
+        },
+        "12 Rabi al-awwal": {
+          "_name": "12 Rabi al-awwal"
+        }
+      }
+    },
+    "AF": {
+      "names": {
+        "prs": "جمهوری اسلامی افغانستان‬",
+        "ps": "افغانستان اسلامي جمهوریت‬",
+        "en": "Afghanistan"
+      },
+      "langs": [
+        "prs",
+        "ps"
+      ],
+      "zones": [
+        "Asia/Kabul"
+      ],
+      "dayoff": "",
+      "days": {
+        "02-15": {
+          "name": {
+            "en": "Liberation Day"
+          }
+        },
+        "04-28": {
+          "name": {
+            "en": "Mujahideen Victory Day",
+            "ps": "سالروز پیروزی مجاهدین"
+          }
+        },
+        "05-01": {
+          "_name": "05-01"
+        },
+        "08-19": {
+          "name": {
+            "en": "Afghan Independence Day",
+            "ps": "د افغانستان د ازادی ورځ‬",
+            "prs": "روز پیروزی افغانستان‬"
+          }
+        },
+        "solar hijri Farvardin 1": {
+          "name": {
+            "en": "New Year's Day (Nowruz)"
+          }
+        },
+        "solar hijri Shahrivar 18": {
+          "name": {
+            "en": "Martyrs' Day",
+            "ps": "روز شهیدان"
+          }
+        },
+        "1 Muharram": {
+          "_name": "1 Muharram"
+        },
+        "10 Muharram": {
+          "_name": "10 Muharram"
+        },
+        "1 Shawwal": {
+          "_name": "1 Shawwal"
+        },
+        "9 Dhu al-Hijjah": {
+          "name": {
+            "en": "Day of Arafa"
+          }
+        },
+        "10 Dhu al-Hijjah": {
+          "_name": "10 Dhu al-Hijjah"
         }
       }
     },
@@ -1793,6 +1904,246 @@
         }
       }
     },
+    "BD": {
+      "names": {
+        "en": "Bangladesh"
+      },
+      "langs": [],
+      "zones": [
+        "Asia/Dhaka"
+      ],
+      "dayoff": "",
+      "days": {},
+      "states": {
+        "A": {
+          "name": "Barisal",
+          "regions": {
+            "25": {
+              "name": "Jhalokati"
+            },
+            "50": {
+              "name": "Pirojpur"
+            },
+            "51": {
+              "name": "Patuakhali"
+            },
+            "02": {
+              "name": "Barguna"
+            },
+            "06": {
+              "name": "Barisal Division"
+            },
+            "07": {
+              "name": "Bhola"
+            }
+          }
+        },
+        "B": {
+          "name": "Chittagong Division",
+          "regions": {
+            "10": {
+              "name": "Chittagong"
+            },
+            "11": {
+              "name": "Cox’s Bazar"
+            },
+            "16": {
+              "name": "Feni"
+            },
+            "29": {
+              "name": "Khagrachari"
+            },
+            "31": {
+              "name": "Lakshmipur"
+            },
+            "47": {
+              "name": "Noakhali"
+            },
+            "56": {
+              "name": "Rangamati Hill"
+            },
+            "01": {
+              "name": "Bandarban"
+            },
+            "04": {
+              "name": "Brahmanbaria"
+            },
+            "08": {
+              "name": "Comilla"
+            },
+            "09": {
+              "name": "Chandpur"
+            }
+          }
+        },
+        "C": {
+          "name": "Dhaka Division",
+          "regions": {
+            "13": {
+              "name": "Dhaka"
+            },
+            "15": {
+              "name": "Faridpur"
+            },
+            "17": {
+              "name": "Gopalganj"
+            },
+            "18": {
+              "name": "Gazipur"
+            },
+            "21": {
+              "name": "Jamalpur"
+            },
+            "26": {
+              "name": "Kishoreganj"
+            },
+            "33": {
+              "name": "Manikganj"
+            },
+            "34": {
+              "name": "Mymensingh"
+            },
+            "35": {
+              "name": "Munshiganj"
+            },
+            "36": {
+              "name": "Madaripur"
+            },
+            "40": {
+              "name": "Narayanganj"
+            },
+            "41": {
+              "name": "Netrokona"
+            },
+            "42": {
+              "name": "Narsingdi"
+            },
+            "53": {
+              "name": "Rajbari"
+            },
+            "57": {
+              "name": "Sherpur"
+            },
+            "62": {
+              "name": "Shariatpur"
+            },
+            "63": {
+              "name": "Tangail"
+            }
+          }
+        },
+        "D": {
+          "name": "Khulna Division",
+          "regions": {
+            "12": {
+              "name": "Chuadanga"
+            },
+            "22": {
+              "name": "Jessore"
+            },
+            "23": {
+              "name": "Jhenaidah"
+            },
+            "27": {
+              "name": "Khulna"
+            },
+            "30": {
+              "name": "Kushtia"
+            },
+            "37": {
+              "name": "Magura"
+            },
+            "39": {
+              "name": "Meherpur"
+            },
+            "43": {
+              "name": "Narail"
+            },
+            "58": {
+              "name": "Satkhira"
+            },
+            "05": {
+              "name": "Bagerhat"
+            }
+          }
+        },
+        "E": {
+          "name": "Rajshahi Division",
+          "regions": {
+            "24": {
+              "name": "Joypurhat"
+            },
+            "44": {
+              "name": "Natore"
+            },
+            "45": {
+              "name": "Nawabganj"
+            },
+            "48": {
+              "name": "Naogaon"
+            },
+            "49": {
+              "name": "Pabna"
+            },
+            "54": {
+              "name": "Rajshahi"
+            },
+            "55": {
+              "name": "Rangpur"
+            },
+            "59": {
+              "name": "Sirajganj"
+            },
+            "03": {
+              "name": "Bogra"
+            }
+          }
+        },
+        "F": {
+          "name": "Rangpur Division",
+          "regions": {
+            "14": {
+              "name": "Dinajpur"
+            },
+            "19": {
+              "name": "Gaibandha"
+            },
+            "28": {
+              "name": "Kurigram"
+            },
+            "32": {
+              "name": "Lalmonirhat"
+            },
+            "46": {
+              "name": "Nilphamari"
+            },
+            "52": {
+              "name": "Panchagarh"
+            },
+            "64": {
+              "name": "Thakurgaon"
+            }
+          }
+        },
+        "G": {
+          "name": "Sylhet Division",
+          "regions": {
+            "20": {
+              "name": "Habiganj"
+            },
+            "38": {
+              "name": "Maulvi Bazar"
+            },
+            "60": {
+              "name": "Sylhet"
+            },
+            "61": {
+              "name": "Sunamganj"
+            }
+          }
+        }
+      }
+    },
     "BE": {
       "names": {
         "fr": "Belgique",
@@ -1945,6 +2296,72 @@
         }
       }
     },
+    "BF": {
+      "names": {
+        "fr": "Burkina Faso",
+        "en": "Burkina Faso"
+      },
+      "langs": [
+        "fr"
+      ],
+      "zones": [
+        "Africa/Abidjan"
+      ],
+      "dayoff": "",
+      "days": {
+        "01-01": {
+          "_name": "01-01"
+        },
+        "01-03": {
+          "name": {
+            "fr": "Soulèvement populaire",
+            "en": "Anniversary of the 1966 Upper Voltan coup d'état"
+          }
+        },
+        "03-08": {
+          "_name": "03-08"
+        },
+        "easter": {
+          "_name": "easter"
+        },
+        "easter 1": {
+          "_name": "easter 1"
+        },
+        "easter 39": {
+          "_name": "easter 39"
+        },
+        "easter 49": {
+          "_name": "easter 49"
+        },
+        "05-01": {
+          "_name": "05-01"
+        },
+        "08-05": {
+          "_name": "Independence Day"
+        },
+        "08-15": {
+          "_name": "08-15"
+        },
+        "11-01": {
+          "_name": "11-01"
+        },
+        "12-11": {
+          "name": {
+            "fr": "Fête nationale",
+            "en": "Proclamation of the Republic"
+          }
+        },
+        "12-25": {
+          "_name": "12-25"
+        },
+        "1 Shawwal": {
+          "_name": "1 Shawwal"
+        },
+        "10 Dhu al-Hijjah": {
+          "_name": "10 Dhu al-Hijjah"
+        }
+      }
+    },
     "BG": {
       "names": {
         "bg": "България",
@@ -2036,6 +2453,60 @@
         }
       }
     },
+    "BH": {
+      "names": {
+        "ar": "مملكة البحرين",
+        "en": "Bahrain"
+      },
+      "langs": [
+        "ar"
+      ],
+      "zones": [
+        "Asia/Qatar"
+      ],
+      "dayoff": "",
+      "days": {
+        "01-01": {
+          "_name": "01-01"
+        },
+        "05-01": {
+          "_name": "05-01",
+          "name": {
+            "ar": "يوم العمال"
+          }
+        },
+        "12-16": {
+          "name": {
+            "ar": "اليوم الوطني",
+            "en": "National Day"
+          }
+        },
+        "12-17": {
+          "name": {
+            "ar": "يوم الجلوس",
+            "en": "Accession Day"
+          }
+        },
+        "1 Muharram": {
+          "_name": "1 Muharram"
+        },
+        "10 Muharram": {
+          "_name": "10 Muharram"
+        },
+        "12 Rabi al-awwal": {
+          "_name": "12 Rabi al-awwal"
+        },
+        "1 Shawwal": {
+          "_name": "1 Shawwal"
+        },
+        "9 Dhu al-Hijjah": {
+          "_name": "9 Dhu al-Hijjah"
+        },
+        "10 Dhu al-Hijjah P3D": {
+          "_name": "10 Dhu al-Hijjah"
+        }
+      }
+    },
     "BI": {
       "names": {
         "rn": "Republika y'Uburundi",
@@ -2107,6 +2578,73 @@
           "name": {
             "fr": "Jour l'élection des Sénateurs"
           }
+        }
+      }
+    },
+    "BJ": {
+      "names": {
+        "fr": "République du Bénin",
+        "en": "Benin"
+      },
+      "langs": [
+        "fr"
+      ],
+      "zones": [
+        "Africa/Lagos"
+      ],
+      "dayoff": "",
+      "days": {
+        "01-01": {
+          "_name": "01-01"
+        },
+        "01-10": {
+          "name": {
+            "fr": "Fête du Vodoun"
+          }
+        },
+        "easter": {
+          "_name": "easter",
+          "type": "observance"
+        },
+        "easter 1": {
+          "_name": "easter 1"
+        },
+        "easter 39": {
+          "_name": "easter 39"
+        },
+        "easter 49": {
+          "_name": "easter 49",
+          "type": "observance"
+        },
+        "easter 50": {
+          "_name": "easter 50"
+        },
+        "05-01": {
+          "_name": "05-01"
+        },
+        "08-01": {
+          "_name": "Independence Day",
+          "name": {
+            "fr": "Fête Nationale"
+          }
+        },
+        "08-15": {
+          "_name": "08-15"
+        },
+        "11-01": {
+          "_name": "11-01"
+        },
+        "12-25": {
+          "_name": "12-25"
+        },
+        "1 Shawwal": {
+          "_name": "1 Shawwal"
+        },
+        "10 Dhu al-Hijjah": {
+          "_name": "10 Dhu al-Hijjah"
+        },
+        "12 Rabi al-awwal": {
+          "_name": "12 Rabi al-awwal"
         }
       }
     },
@@ -3282,7 +3820,7 @@
     },
     "BT": {
       "names": {
-        "dz": "འབྲུག་རྒྱལ་ཁབ་",
+        "dz": "འབྲུག་རྒྱལ་ཁབ་,",
         "en": "Kingdom of Bhutan"
       },
       "langs": [
@@ -3295,29 +3833,13 @@
       "days": {
         "01-02": {
           "name": {
-            "dz": "ཉིན་ལོང་",
+            "dz": "ཉིན་ལོང་,",
             "en": "Winter solstice"
-          }
-        },
-        "bhutan 12-01": {
-          "name": {
-            "en": "Traditional Day of Offering"
-          }
-        },
-        "bhutan 01-01 P2D": {
-          "name": {
-            "dz": "ལོ་གསར་",
-            "en": "Losar"
           }
         },
         "02-21 P3D": {
           "name": {
             "en": "King's Birthday"
-          }
-        },
-        "buthan 04-10": {
-          "name": {
-            "en": "Shabdrung Kuchoe"
           }
         },
         "05-02": {
@@ -3365,14 +3887,30 @@
             "en": "Birthday of King Jigme Singye Wangchuck"
           }
         },
-        "tibetian 09-22": {
-          "name": {
-            "en": "Lhabab Duchen"
-          }
-        },
         "12-17": {
           "name": {
             "en": "National Day"
+          }
+        },
+        "bhutan 12-01": {
+          "name": {
+            "en": "Traditional Day of Offering"
+          }
+        },
+        "bhutan 01-01 P2D": {
+          "name": {
+            "dz": "ལོ་གསར་,",
+            "en": "Losar"
+          }
+        },
+        "buthan 04-10": {
+          "name": {
+            "en": "Shabdrung Kuchoe"
+          }
+        },
+        "tibetian 09-22": {
+          "name": {
+            "en": "Lhabab Duchen"
           }
         }
       }
@@ -15143,6 +15681,7 @@
         "az": "Qadınlar günü",
         "be": "Мiжнародны жаночы дзень",
         "bg": "Ден на жената",
+        "fr": "Journée internationale des femmes",
         "hu": "Nemzetközi nőnap",
         "hy": "Կանանց տոն",
         "ro": "Ziua Internationala a Femeii",
@@ -15751,6 +16290,12 @@
         "sw": "Idd-ul-Fitr"
       }
     },
+    "9 Dhu al-Hijjah": {
+      "name": {
+        "en": "Arafat Day",
+        "ar": "يوم عرفة"
+      }
+    },
     "10 Dhu al-Hijjah": {
       "name": {
         "en": "Feast of the Sacrifice (Eid al-Adha)",
@@ -15769,6 +16314,15 @@
         "sw": "Idd-ul-Azha"
       }
     },
+    "27 Rajab": {
+      "name": {
+        "en": "Laylat al-Mi'raj",
+        "ar": "الإسراء والمعراج",
+        "bs": "Lejletul Mi'radž",
+        "sq": "Nata e Miraxhit",
+        "tr": "Miraç Gecesi"
+      }
+    },
     "12 Rabi al-awwal": {
       "name": {
         "en": "Birthday of Muhammad (Mawlid)",
@@ -15777,15 +16331,6 @@
         "bs": "Mevlud",
         "fr": "Mawlid",
         "sq": "Mevludi"
-      }
-    },
-    "27 Rajab": {
-      "name": {
-        "en": "Laylat al-Mi'raj",
-        "ar": "الإسراء والمعراج",
-        "bs": "Lejletul Mi'radž",
-        "sq": "Nata e Miraxhit",
-        "tr": "Miraç Gecesi"
       }
     },
     "15 Shaban": {

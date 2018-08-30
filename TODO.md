@@ -24,3 +24,11 @@
   - write test case
 - [x] split project in source and data
 - [ ] New Feature: Calculus for Diwali (KE, SU, IN)
+
+## Calendars
+- [ ] solar hijri; https://en.wikipedia.org/wiki/Solar_Hijri_calendar
+  - AF
+- [ ] bhutan; http://www.kalacakra.org/calendar/bhut_art.htm
+  - BT
+- [ ] tibetian; https://en.wikipedia.org/wiki/Tibetan_calendar
+  - BT
